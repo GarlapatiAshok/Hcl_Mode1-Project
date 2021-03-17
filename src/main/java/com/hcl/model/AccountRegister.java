@@ -1,4 +1,4 @@
-/*HARDCODED BY GARLAPATI ASHOK*/
+/*HARDCODED BY GARLAPATI ASHOK ROY*/
 package com.hcl.model;
 
 import javax.persistence.Column;
